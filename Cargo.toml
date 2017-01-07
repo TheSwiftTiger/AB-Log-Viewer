@@ -1,6 +1,0 @@
-[package]
-name = "AB-Log-Viewer"
-version = "0.1.0"
-authors = ["portal-chan"]
-
-[dependencies]
