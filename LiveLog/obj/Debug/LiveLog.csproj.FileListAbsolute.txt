@@ -1,5 +1,0 @@
-c:\users\chapa\onedrive\documents\visual studio 2015\Projects\LiveLog\LiveLog\bin\Debug\LiveLog.exe
-c:\users\chapa\onedrive\documents\visual studio 2015\Projects\LiveLog\LiveLog\bin\Debug\LiveLog.pdb
-c:\users\chapa\onedrive\documents\visual studio 2015\Projects\LiveLog\LiveLog\obj\Debug\LiveLog.csprojResolveAssemblyReference.cache
-c:\users\chapa\onedrive\documents\visual studio 2015\Projects\LiveLog\LiveLog\obj\Debug\LiveLog.exe
-c:\users\chapa\onedrive\documents\visual studio 2015\Projects\LiveLog\LiveLog\obj\Debug\LiveLog.pdb
